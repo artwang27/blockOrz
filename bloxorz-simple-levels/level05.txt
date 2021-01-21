@@ -9,6 +9,6 @@ ooo-------ooooo
 oTooobboooooo
 oooo
 #AOa
-#BOb
-#COb
+#BOb+
+#COb-
 #DOb
