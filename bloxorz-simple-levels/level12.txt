@@ -1,0 +1,12 @@
+------------B
+-----ooo--ooo
+-----oAoooooa
+---ooooo--oo
+---oTob---oo
+-ooooo---oooo
+oooo-----oooo
+oooo--ooooo
+-----ooo
+-----ooo
+#AXa
+#BXb
