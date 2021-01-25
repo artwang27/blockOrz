@@ -11,3 +11,4 @@ ooo--oo
 #AOa
 #BOb-
 #COb+
+%b+
