@@ -12,6 +12,3 @@ ooo--oo
 #BOb-
 #COb+
 %b+
-xxxxx
-yyy
-zzz
