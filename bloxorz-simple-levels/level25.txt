@@ -8,15 +8,8 @@ ooAoccoo
 ooo---oo---ooo
 ooo---ooBooooo
 -----------ooo
-
 #AXa+
 #BOb+
 #BOc-
 #DOa
 #DOd
-
-#AOb-
-#BOa-
-#BOb-
-#CXa
-#DXb
