@@ -5,9 +5,9 @@
 -...--Coo---.-
 --.---ooo--...
 --o---ooo--ooo
-ooooeeoDoccoSo
-ooAo--E----ooo
-oooo
+aoooeeoDoccoSo
+aoAo--E----ooo
+aooo
 #AXb-
 #AXf+
 #BXd
@@ -20,6 +20,4 @@ oooo
 #DOe-
 #DOc-
 #EXe
-%c+
-%b+
 
