@@ -5,7 +5,7 @@
 -ooo----ooo
 ---------oo
 ----ooo--oS
-oobbooo--oo
+oobboCo--oo
 ooccooooooo
 #AXa
 #AXb
