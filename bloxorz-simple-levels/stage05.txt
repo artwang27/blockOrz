@@ -1,0 +1,14 @@
+-----------oooo
+-ooooaaoAooooSo
+-oooo-------ooo
+-ooBo
+-oooo
+---oooCoooooo
+----------ooooD
+ooo-------ooooo
+oTooobboooooo
+oooo
+#AO:a~
+#BO:b+
+#CO:b-
+#DO:b~
