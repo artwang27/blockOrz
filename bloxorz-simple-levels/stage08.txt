@@ -7,5 +7,4 @@ oooooo---oooooo
 ---------ooo
 ---------oco
 ---------ooo
-#AS:b0
-#AS:c1
+#AH:b0c1
