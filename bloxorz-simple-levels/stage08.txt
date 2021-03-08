@@ -1,0 +1,11 @@
+---------ooo
+---------obo
+---------ooo
+oooooo---oooooo
+oSooAo---ooooTo
+oooooo---oooooo
+---------ooo
+---------oco
+---------ooo
+#AS:b0
+#AS:c1
