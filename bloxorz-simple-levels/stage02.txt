@@ -4,6 +4,7 @@ ooAo--oooo--ooo
 oooo--oooo--ooo
 oSooaaoooobbooo
 oooo--oooo
+#SS
 #TT
 #AO:a~
 #BX:b~
