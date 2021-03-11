@@ -6,4 +6,6 @@ ooo----ooA--ooo
 ooo----ooo--ooo
 -ooa---o
 --oooooo
+#SS
+#TT
 #AX:a~

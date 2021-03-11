@@ -8,6 +8,8 @@
 ooo-------ooooo
 oTooobboooooo
 oooo
+#SS
+#TT
 #AO:a~
 #BO:b+
 #CO:b-
