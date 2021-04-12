@@ -1,8 +1,8 @@
 oooo---o---oooo
-oSyo---o---oxZo
+oSvo---o---ouZo
 ooooooooooooooo
 ------oTo
 ------ooo
 #SS
 #TT
-#ZH:x0y1
+#HZ:u0v1
