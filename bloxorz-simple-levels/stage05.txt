@@ -10,7 +10,7 @@ oTooobboooooo
 oooo
 #SS
 #TT
-#AO:a~
-#BO:b+
-#CO:b-
-#DO:b~
+#OA:a~
+#OB:b+
+#OC:b-
+#OD:b~
