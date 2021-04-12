@@ -6,5 +6,5 @@ oSooaaoooobbooo
 oooo--oooo
 #SS
 #TT
-#AO:a~
-#BX:b~
+#OA:a~
+#XB:b~
