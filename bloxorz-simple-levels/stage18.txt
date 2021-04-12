@@ -1,0 +1,17 @@
+-------D
+ooAo---o
+ooooo--o
+oCSoooooddooaao
+ooooo---o---o
+ooBof---o---o
+o-------E--ooo
+o---------ooTo
+oaaF------oooo
+#SS
+#TT
+#OA:a-
+#OB:a-
+#OC:d-
+#OD:d+
+#OE:a+
+#XF:f~

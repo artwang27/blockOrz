@@ -1,0 +1,17 @@
+-B--------ooo
+AoCffYZwggoTo
+-D--------ooo
+-
+-
+--ooo---ooo
+--oSoooooEo
+--ooo---ooo
+#SS
+#TT
+#HA:C0B1
+#HB:w0Y1 
+#HC:A0C1
+#HD:D0A1
+#HE:B0A1
+#XY:f+
+#XZ:g+
