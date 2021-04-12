@@ -8,4 +8,4 @@ ooo----ooo--ooo
 --oooooo
 #SS
 #TT
-#AX:a~
+#XA:a~
