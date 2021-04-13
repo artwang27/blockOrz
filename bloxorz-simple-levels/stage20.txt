@@ -10,10 +10,10 @@ oA----------ouo
 ------------ooo
 #SS
 #TT
-#XA:c~
-#XB:a-
-#XC:a-
-#XD:a-
-#XE:b~
+#OA:c~
+#OB:a-
+#OC:a-
+#OD:a-
+#OE:b~
 #HZ:u0v1
 %a+
