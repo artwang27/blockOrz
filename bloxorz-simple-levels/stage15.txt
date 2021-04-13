@@ -6,7 +6,7 @@ oo
 -o-----Z
 -o-----o
 ooo---ooo--Boo
-oSuoooooobboTo
+oSooooooobboTo
 ooo---ooo--Coo
 #SS
 #TT
