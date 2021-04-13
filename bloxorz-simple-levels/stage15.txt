@@ -14,7 +14,7 @@ ooo---ooo--Coo
 #OA:c~d~
 #OB:b-
 #OC:b-
-#HZ:u0v1
+#HZ:S0v1
 %a-
 %b+
 %c+
