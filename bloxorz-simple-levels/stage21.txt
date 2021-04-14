@@ -10,5 +10,5 @@ oooo----o---ooo
 ---aoooooo
 #SS
 #TT
-#XA:a
-#XB:b
+#XA:a~
+#XB:b~
