@@ -1,0 +1,16 @@
+-----oo----ooo
+---oooooo--oTo
+ooooooBooooooo
+oSooA--ooooob
+ooo------ooo
+-o--------o
+-o--------o
+-oa------oo
+-oo------oo
+--D------C
+#SS
+#TT
+#OA:a-b-
+#OB:a-b-
+#XC:a~
+#XD:b~
